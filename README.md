@@ -6,6 +6,8 @@
 
 ## Installation
 
+ [![NPM](https://nodei.co/npm/panda-portfolio.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/panda-portfolio/)
+
 ```javascript
 // For npm<5.2.0
 sudo npm install -g panda-portfolio
